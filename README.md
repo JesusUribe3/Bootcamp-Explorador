@@ -1,2 +1,2 @@
-# Bootcamp-an-lisis-de-datos-
+# Bootcamp-Explorador
 Repositorio bootcamp análisis de datos Explorador
