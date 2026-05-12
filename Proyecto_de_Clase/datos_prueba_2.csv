@@ -1,0 +1,101 @@
+﻿ID Guía;Fecha Envío;Origen;Destino;Transportadora;Estado;Tipo de Servicio;Peso (kg);Costo ($)
+1;2026-04-15;Cartagena;Bogotá;Servientrega;En reparto;Mismo día;1,39;10621
+2;2026-04-03;Bogotá;Pereira;Envia;En reparto;Prioritario;1,81;8797
+3;2026-04-05;Cali;Medellín;Envia;Devolución;Express;3,95;29181
+4;2026-04-10;Cartagena;Pereira;Interrapidísimo;Entregada;Express;3,08;14371
+5;2026-04-01;Cartagena;Cali;Envia;En reparto;Estándar;3,95;8109
+6;2026-04-01;Cartagena;Pereira;Coordinadora;En reparto;Estándar;4,79;14875
+7;2026-04-15;Medellín;Cali;Interrapidísimo;Devolución;Prioritario;4,3;19235
+8;2026-04-07;Medellín;Barranquilla;Servientrega;En reparto;Estándar;3,6;13644
+9;2026-04-08;Barranquilla;Bogotá;Envia;Devolución;Mismo día;5;15324
+10;2026-04-10;Medellín;Bogotá;Servientrega;En reparto;Mismo día;2,9;23946
+11;2026-04-14;Cartagena;Bogotá;Envia;Entregada;Express;2,76;26507
+12;2026-04-03;Cali;Medellín;Servientrega;En reparto;Mismo día;0,97;20870
+13;2026-04-09;Pereira;Bogotá;Envia;Devolución;Express;4,67;15075
+14;2026-04-09;Bogotá;Pereira;Interrapidísimo;Entregada;Mismo día;3,05;21843
+15;2026-04-09;Pereira;Pereira;Coordinadora;Devolución;Mismo día;3,27;25034
+16;2026-04-07;Cartagena;Cartagena;Servientrega;Devolución;Estándar;2,35;29578
+17;2026-04-11;Cartagena;Bogotá;Coordinadora;Devolución;Mismo día;3,47;15597
+18;2026-04-16;Medellín;Pereira;Servientrega;Entregada;Estándar;1,91;11658
+19;2026-04-01;Cali;Medellín;Interrapidísimo;En reparto;Estándar;3,63;26160
+20;2026-04-08;Medellín;Medellín;Coordinadora;Devolución;Prioritario;2,75;16553
+21;2026-04-15;Bogotá;Barranquilla;Interrapidísimo;Devolución;Prioritario;3,73;14996
+22;2026-04-03;Cali;Bogotá;Servientrega;Entregada;Prioritario;2,96;23618
+23;2026-04-04;Barranquilla;Barranquilla;Interrapidísimo;Entregada;Prioritario;4,95;16280
+24;2026-04-12;Medellín;Cartagena;Servientrega;En reparto;Estándar;2,49;12073
+25;2026-04-07;Bogotá;Bogotá;Envia;En reparto;Prioritario;2,45;19528
+26;2026-04-04;Bogotá;Bogotá;Interrapidísimo;Entregada;Prioritario;2,83;23210
+27;2026-04-13;Bogotá;Bogotá;Coordinadora;Entregada;Estándar;4,79;23246
+28;2026-04-07;Pereira;Cali;Coordinadora;Devolución;Express;3,06;19124
+29;2026-04-05;Medellín;Cali;Envia;Entregada;Prioritario;2,82;24137
+30;2026-04-15;Medellín;Cali;Interrapidísimo;Entregada;Prioritario;2,75;18824
+31;2026-04-06;Cali;Bogotá;Envia;Entregada;Prioritario;1,59;9346
+32;2026-04-09;Cali;Barranquilla;Interrapidísimo;Entregada;Mismo día;1,16;11617
+33;2026-04-08;Cali;Medellín;Servientrega;Devolución;Estándar;4,17;13754
+34;2026-04-02;Pereira;Medellín;Interrapidísimo;En reparto;Mismo día;1,64;27011
+35;2026-04-01;Cali;Cali;Coordinadora;Entregada;Express;2,42;12806
+36;2026-04-03;Cartagena;Medellín;Servientrega;Entregada;Mismo día;4,12;24253
+37;2026-04-08;Barranquilla;Pereira;Interrapidísimo;En reparto;Mismo día;1,78;14209
+38;2026-04-03;Cartagena;Barranquilla;Interrapidísimo;Devolución;Prioritario;4,22;24406
+39;2026-04-02;Medellín;Medellín;Coordinadora;Devolución;Express;4,24;12636
+40;2026-04-05;Medellín;Cartagena;Interrapidísimo;En reparto;Express;4,24;9040
+41;2026-04-03;Medellín;Cali;Interrapidísimo;Devolución;Estándar;1,97;17918
+42;2026-04-10;Cartagena;Pereira;Coordinadora;En reparto;Mismo día;1,48;22118
+43;2026-04-10;Medellín;Barranquilla;Envia;En reparto;Estándar;2,36;28784
+44;2026-04-14;Cartagena;Cartagena;Interrapidísimo;En reparto;Express;1,9;17495
+45;2026-04-16;Barranquilla;Cali;Envia;Entregada;Express;4,14;11802
+46;2026-04-15;Barranquilla;Pereira;Coordinadora;Entregada;Prioritario;1,98;15179
+47;2026-04-02;Cali;Barranquilla;Servientrega;Devolución;Prioritario;2,63;8390
+48;2026-04-02;Medellín;Cartagena;Servientrega;Devolución;Estándar;1,12;14305
+49;2026-04-10;Cartagena;Pereira;Coordinadora;Entregada;Express;1,02;20037
+50;2026-04-12;Barranquilla;Barranquilla;Coordinadora;Entregada;Estándar;1,16;21415
+51;2026-04-11;Bogotá;Cartagena;Coordinadora;En reparto;Prioritario;4,72;29774
+52;2026-04-03;Bogotá;Medellín;Coordinadora;Entregada;Mismo día;1,7;8035
+53;2026-04-07;Bogotá;Bogotá;Coordinadora;En reparto;Express;1,6;21594
+54;2026-04-16;Pereira;Cali;Servientrega;Devolución;Mismo día;1,01;21071
+55;2026-04-09;Medellín;Pereira;Interrapidísimo;Entregada;Express;2,09;11997
+56;2026-04-12;Barranquilla;Bogotá;Interrapidísimo;Entregada;Express;4,58;17691
+57;2026-04-12;Cartagena;Cartagena;Envia;Devolución;Prioritario;1,94;16503
+58;2026-04-11;Cartagena;Cali;Envia;Entregada;Prioritario;2,32;18410
+59;2026-04-15;Pereira;Bogotá;Interrapidísimo;En reparto;Express;3,68;18982
+60;2026-04-03;Cartagena;Barranquilla;Servientrega;Devolución;Express;2,17;21230
+61;2026-04-04;Bogotá;Pereira;Envia;Devolución;Express;3,67;9228
+62;2026-04-08;Medellín;Cartagena;Interrapidísimo;En reparto;Express;3,58;19406
+63;2026-04-12;Cartagena;Cali;Coordinadora;Entregada;Mismo día;2,95;17363
+64;2026-04-15;Cartagena;Cartagena;Servientrega;Entregada;Express;2,47;29510
+65;2026-04-08;Cali;Cartagena;Coordinadora;En reparto;Express;3,61;8112
+66;2026-04-06;Barranquilla;Medellín;Interrapidísimo;Entregada;Prioritario;2,01;16208
+67;2026-04-01;Bogotá;Bogotá;Servientrega;En reparto;Mismo día;1,06;11831
+68;2026-04-07;Cartagena;Cartagena;Envia;En reparto;Express;1,54;10751
+69;2026-04-06;Bogotá;Cartagena;Interrapidísimo;En reparto;Mismo día;4,82;12999
+70;2026-04-01;Bogotá;Cali;Coordinadora;Entregada;Express;0,84;16996
+71;2026-04-16;Medellín;Medellín;Interrapidísimo;En reparto;Express;3,27;23620
+72;2026-04-14;Cali;Cali;Interrapidísimo;Entregada;Estándar;3,49;22533
+73;2026-04-04;Medellín;Pereira;Envia;Devolución;Estándar;3,82;24353
+74;2026-04-15;Cali;Pereira;Interrapidísimo;En reparto;Mismo día;3,86;17115
+75;2026-04-10;Bogotá;Barranquilla;Envia;En reparto;Estándar;1,78;28569
+76;2026-04-12;Pereira;Cali;Interrapidísimo;En reparto;Estándar;1,09;29241
+77;2026-04-16;Barranquilla;Medellín;Servientrega;Entregada;Mismo día;0,9;25243
+78;2026-04-03;Medellín;Barranquilla;Servientrega;En reparto;Mismo día;1,39;20002
+79;2026-04-08;Pereira;Barranquilla;Servientrega;Devolución;Estándar;2,4;18479
+80;2026-04-14;Barranquilla;Cartagena;Coordinadora;Devolución;Prioritario;2,76;15878
+81;2026-04-14;Cartagena;Cali;Interrapidísimo;Entregada;Express;0,53;29894
+82;2026-04-11;Cartagena;Cartagena;Servientrega;Devolución;Express;3,89;29781
+83;2026-04-15;Bogotá;Bogotá;Servientrega;En reparto;Mismo día;3,1;21658
+84;2026-04-05;Barranquilla;Bogotá;Servientrega;Devolución;Mismo día;3,25;11707
+85;2026-04-10;Pereira;Barranquilla;Interrapidísimo;Entregada;Express;2,56;24808
+86;2026-04-05;Bogotá;Cartagena;Interrapidísimo;Entregada;Estándar;0,87;20580
+87;2026-04-08;Cali;Barranquilla;Interrapidísimo;Devolución;Estándar;1,36;16137
+88;2026-04-12;Barranquilla;Medellín;Interrapidísimo;Entregada;Estándar;4,15;27603
+89;2026-04-06;Medellín;Barranquilla;Interrapidísimo;Devolución;Estándar;1,14;16905
+90;2026-04-01;Pereira;Medellín;Interrapidísimo;En reparto;Prioritario;1,28;14954
+91;2026-04-07;Barranquilla;Bogotá;Servientrega;Devolución;Express;0,78;14222
+92;2026-04-07;Pereira;Medellín;Interrapidísimo;En reparto;Mismo día;4,83;19807
+93;2026-04-06;Barranquilla;Barranquilla;Envia;En reparto;Mismo día;4,66;16541
+94;2026-04-06;Medellín;Cali;Coordinadora;En reparto;Express;0,53;10550
+95;2026-04-06;Cali;Pereira;Servientrega;Devolución;Mismo día;4,6;9082
+96;2026-04-01;Cartagena;Pereira;Coordinadora;Entregada;Express;3,9;14723
+97;2026-04-12;Cartagena;Cali;Interrapidísimo;Devolución;Mismo día;0,95;17998
+98;2026-04-16;Cartagena;Bogotá;Interrapidísimo;En reparto;Mismo día;4,08;13626
+99;2026-04-11;Barranquilla;Barranquilla;Interrapidísimo;En reparto;Mismo día;1,93;14336
+100;2026-04-07;Medellín;Cali;Interrapidísimo;Devolución;Estándar;0,6;22333
